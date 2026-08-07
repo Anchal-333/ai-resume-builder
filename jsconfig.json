@@ -1,0 +1,11 @@
+
+  {
+    "compilerOptions": {
+      "baseUrl": "./",  // This allows using absolute imports
+      "paths": {
+        "@/*": [
+          "./src/*"
+          ]  // This creates an alias "@" that points to the "src" directory
+      }
+    }
+}
