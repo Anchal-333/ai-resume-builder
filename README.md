@@ -26,11 +26,10 @@ An AI-powered Resume Builder web application that helps users create professiona
 - Express.js
 
 ### Database
-- MySQL (or your database, if different)
+- MySQL 
 
 ### AI Integration
-- OpenAI API (or mention the AI service you actually used)
-
+- OpenAI API 
 ## Project Structure
 
 ```
@@ -80,4 +79,4 @@ npm run dev
 
 ## Author
 
-Your Name
+Anchal
