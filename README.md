@@ -1,81 +1,61 @@
-
 # AI Resume Builder
 
-An AI-powered Resume Builder web application that helps users create professional resumes through an easy-to-use interface. The application allows users to enter their personal, educational, and professional details, generate a structured resume, and export it in a clean format.
+An AI-powered Resume Builder that helps users create professional resumes through an intuitive web interface. The application enables users to enter their details, generate well-structured resumes, preview them, and download them.
 
 ## Features
 
-- Create professional resumes
+- AI-assisted resume generation
 - User-friendly interface
-- Add personal, educational, and work details
-- Skills and project sections
-- AI-assisted content generation
-- Resume preview
+- Multiple resume sections
+- Live preview
 - Download resume
+- Responsive design
 
 ## Tech Stack
 
-### Frontend
+**Frontend**
 - React.js
 - HTML
 - CSS
 - JavaScript
 
-### Backend
+**Backend**
 - Node.js
 - Express.js
 
-### Database
-- MySQL 
+**Database**
+MySQL
 
-### AI Integration
-- OpenAI API 
+**AI**
+- OpenAI API
+
 ## Project Structure
 
 ```
 AI-Resume-Builder/
-│── frontend/
-│── backend/
-│── public/
-│── src/
-│── package.json
-│── README.md
+├── public/
+├── src/
+├── components/
+├── package.json
+├── README.md
 ```
 
 ## Installation
 
-1. Clone the repository
-
 ```bash
-git clone <repository-url>
-```
-
-2. Navigate to the project directory
-
-```bash
-cd AI-Resume-Builder
-```
-
-3. Install dependencies
-
-```bash
+git clone https://github.com/Anchal-333/ai-resume-builder.git
+cd ai-resume-builder
 npm install
-```
-
-4. Start the application
-
-```bash
 npm run dev
 ```
 
-## Future Enhancements
+## Future Improvements
 
-- Multiple resume templates
-- ATS score analysis
-- AI-based resume improvement suggestions
-- PDF export customization
-- User authentication
-- Cloud storage
+- ATS Score Checker
+- Multiple Resume Templates
+- AI Resume Suggestions
+- Cover Letter Generator
+- User Authentication
 
 ## Author
 
